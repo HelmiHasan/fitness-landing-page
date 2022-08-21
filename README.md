@@ -33,5 +33,4 @@ This is a frontend development to the [Fitness Landing Page for Callour Studio](
 - Includes a form to calculate body mass index.
 - Includes a form to send emails.
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
